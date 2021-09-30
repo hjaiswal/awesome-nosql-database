@@ -19,7 +19,7 @@
 ### Running Queries
 
 ```
-_Get Record by Key_
+**Get Record by Key**
 get --key 1
 put --key 1 --value {"name": "Himanshu", "age":28, "occupation": "developer"}
 ```
