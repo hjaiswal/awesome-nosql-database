@@ -16,7 +16,7 @@
 > ./client.sh
 ```
 
-### Running Queries
+### Running Queries via Database Client
 
 ***Get Record by Key***
 ```
