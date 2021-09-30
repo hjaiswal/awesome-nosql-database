@@ -18,8 +18,13 @@
 
 ### Running Queries
 
-```
 **Get Record by Key**
+```
 get --key 1
+
+```
+**Insert Record by Key**
+```
 put --key 1 --value {"name": "Himanshu", "age":28, "occupation": "developer"}
 ```
+
