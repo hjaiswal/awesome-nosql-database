@@ -60,3 +60,13 @@ delete --value {"occupation": "developer"}
 ```
 delete --klist 1,2,3
 ```
+
+***Stop Database Client***
+```
+Enter q or Q and press enter OR CTRL + C
+```
+
+***Stop Database Server***
+```
+CTRL + C
+```
